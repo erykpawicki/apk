@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.apk">
    <application
-        android:label="apk"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Erpa"
+        android:icon="@mipmap/ic_launchpker">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
@@ -39,3 +39,5 @@
             android:value="2" />
     </application>
 </manifest>
+
+

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1074660963108",
+    "project_id": "apka-4bee8",
+    "storage_bucket": "apka-4bee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074660963108:android:44e8b443708e0c2fe179b1",
+        "android_client_info": {
+          "package_name": "com.example.apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074660963108-bv7sl0jkgeom8thhrvcfq0551lq1dcvn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apk",
+            "certificate_hash": "9de35853d1313d8355b6aa0133b9eed392cc924c"
+          }
+        },
+        {
+          "client_id": "1074660963108-vd2n5a38d3r1rj47tk27091egd62enek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgqJoyVIHRlPJwiHAAjTM6f-UN0Nr28VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074660963108-vd2n5a38d3r1rj47tk27091egd62enek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
